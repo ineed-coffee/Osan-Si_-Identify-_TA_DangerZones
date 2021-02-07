@@ -5,7 +5,7 @@
   - 어린이 보호구역 외 어린이 교통사고 위험 지역 20개소 제시  
   - 기존 어린이 보호구역 중 교통안전시설물 우선 설치 지역 20개소 제시
 - __참여__ : [**ineed-coffee**](https://github.com/ineed-coffee) , [**ikeven94**](https://github.com/ikeven94) , [**cjlee0217**](https://github.com/cjlee0217) , [**heewonp**](https://github.com/heewonp) 
-- __실행 소스코드 및 결과보고서__ : [【Submit】](/[Submit]) 폴더
+- __실행 소스코드 및 결과보고서__ : [Submit](/Submit) 폴더
 
 ---
 
@@ -37,4 +37,16 @@
 ### `세부과제2 EDA`  
 ![슬라이드21](assets/슬라이드21.PNG)  
 ![슬라이드22](assets/슬라이드22.PNG)  
+
+***
+
+## 세부과제1 모델링  
+![슬라이드23](assets/슬라이드23.PNG)  
+![슬라이드24](assets/슬라이드24.PNG)  
+![슬라이드25](assets/슬라이드25.PNG)  
+![슬라이드26](assets/슬라이드26.PNG)  
+## 세부과제2 모델링  
+![슬라이드27](assets/슬라이드27.PNG)  
+![슬라이드28](assets/슬라이드28.PNG)  
+
 ***

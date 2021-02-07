@@ -30,16 +30,15 @@
 
 
 ### 실행 순서 : 
-
 1. `1.Setups.ipynb`  
- 	2. `2.Data Load& Preprocessing.ipynb`   
- 	3. `3.EDA.ipynb`   
- 	4. `4.Training set generation [Task1 , Task2].ipynb`   
- 	5. `5-1.Modeling [Task1].ipynb`   
- 	6. `5-2.Modeling [Task1].ipynb`   
- 	7. `6.Scoring [Task1].ipynb`   
- 	8. `6.Scoring [Task2].ipynb`   
- 	9. `7.Result [Task1 , Task2].ipynb`   
+2. `2.Data Load& Preprocessing.ipynb`   
+3. `3.EDA.ipynb`   
+4. `4.Training set generation [Task1 , Task2].ipynb`   
+5. `5-1.Modeling [Task1].ipynb`   
+6. `5-2.Modeling [Task1].ipynb`   
+7. `6.Scoring [Task1].ipynb`   
+8. `6.Scoring [Task2].ipynb`   
+9. `7.Result [Task1 , Task2].ipynb`   
 
   
 
