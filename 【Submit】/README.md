@@ -8,6 +8,9 @@
   - malgun.ttf (폰트 파일)
   - requirements.txt (패키지 requirements)
   - 어린이(만 13세 미만)보행자 교통사고.xls.xlsx  ( [TAAS](http://taas.koroad.or.kr/sta/acs/gus/selectChildPdstrnTfcacd.do?menuId=WEB_KMP_OVT_MVT_TAS_CPT) 제공 어린이 보행자 교통사고 데이터)
+
+
+
 - __코드 파일 9개 : 분석 전과정 소스코드__ 
   - 1.Setups.ipynb
   - 2.Data Load& Preprocessing.ipynb
@@ -28,17 +31,17 @@
 
 ### 실행 순서 : 
 
-1. `1.Setups.ipynb` 
- 	2. `2.Data Load& Preprocessing.ipynb` 
- 	3. `3.EDA.ipynb` 
- 	4. `4.Training set generation [Task1 , Task2].ipynb` 
- 	5. `5-1.Modeling [Task1].ipynb` 
- 	6. `5-2.Modeling [Task1].ipynb` 
- 	7. `6.Scoring [Task1].ipynb` 
- 	8. `6.Scoring [Task2].ipynb` 
- 	9. `7.Result [Task1 , Task2].ipynb` 
+1. `1.Setups.ipynb`  
+ 	2. `2.Data Load& Preprocessing.ipynb`   
+ 	3. `3.EDA.ipynb`   
+ 	4. `4.Training set generation [Task1 , Task2].ipynb`   
+ 	5. `5-1.Modeling [Task1].ipynb`   
+ 	6. `5-2.Modeling [Task1].ipynb`   
+ 	7. `6.Scoring [Task1].ipynb`   
+ 	8. `6.Scoring [Task2].ipynb`   
+ 	9. `7.Result [Task1 , Task2].ipynb`   
 
-
+  
 
 ### 동작 내용:
 
